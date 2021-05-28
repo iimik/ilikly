@@ -1,4 +1,11 @@
-### Hi there 👋
+
+## README
+
+一个有思想的Java程序员。
+
+### 开源项目 👋
+
+维护多个开源项目，以简化Java开发为目标，结合Spring、Mybatis、ShardingShape等主流开源项目，将Java开发效率进一步提升。
 
 <table>
   <thead>
