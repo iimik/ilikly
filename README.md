@@ -72,7 +72,7 @@
         <img src="https://img.shields.io/nexus/r/org.ifinalframework.data/final-data?server=https://s01.oss.sonatype.org"/>
         <img src="https://img.shields.io/nexus/s/org.ifinalframework.data/final-data?server=https://s01.oss.sonatype.org"/>
         <img src="https://img.shields.io/github/stars/final-projects/final-data"/>
-        <img src="https://codecov.io/gh/final-projects/final-framework/branch/main/graph/badge.svg"/>
+        <img src="https://codecov.io/gh/final-projects/final-data/branch/main/graph/badge.svg"/>
       </td>
     </tr>
     <!-- final-boot -->
